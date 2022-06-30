@@ -1,2 +1,4 @@
 # 2022_JAVA
-fot studying JAVA
+for studying JAVA
+
+[Lecture](https://www.youtube.com/playlist?list=PLuHgQVnccGMAIluRRVsC1e79ri-dwnBmR)
